@@ -47,3 +47,9 @@ oncoprint.R
 
 Seurat.R
 
+## Mutate enrichment analysis
+
+#Calculate the enrichment for gene alterations in each tumor type
+
+maftools&dndscv.R
+
